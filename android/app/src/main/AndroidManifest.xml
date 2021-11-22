@@ -7,7 +7,7 @@
         android:label="time_and_attendance"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyCk2yc20tZJRPf3TNXETTMQfVHeG4T23_o"/>
+           android:value="API KEY HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
