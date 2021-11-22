@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97745490742",
+    "firebase_url": "https://timeandatten-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "timeandatten",
+    "storage_bucket": "timeandatten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97745490742:android:3bc1d7d84fd98a6420d997",
+        "android_client_info": {
+          "package_name": "com.zentyl.time_and_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97745490742-51cej8a53facuteiaskbgqnhbjs7amin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYV-St3SRvqHGiycDzE1hk7BjybuiiHA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97745490742-51cej8a53facuteiaskbgqnhbjs7amin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
